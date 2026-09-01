@@ -1,0 +1,13 @@
+﻿build/
+dist/
+*.spec
+localpycs/
+__pycache__/
+*.pyc
+base_library.zip
+*.toc
+*.pkg
+*.pyz
+warn-*.txt
+xref-*.html
+*.csv
